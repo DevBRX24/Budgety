@@ -1,2 +1,2 @@
 # Budgety
-#Simple Web App to calculate Income and Expenses
+#Simple Web Application built using javascript to calculate Income and Expenses.
